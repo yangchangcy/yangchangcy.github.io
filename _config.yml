@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yang Chang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Yang Chang "
+repository               : "yangchangcy/yangchangcy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yang Chang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Fudan University"
+  location         : "ShangHai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n9VEHe8AAAAJ"
