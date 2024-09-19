@@ -1,19 +1,22 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "关于我"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "学历"
+    url: "/#-学历"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "工作"
+    url: "/#-工作"
 
-  - title: "Jobs"
-    url: "/#-jobs"
+  - title: "学术"
+    url: "/#-课程开设&学术论文"
 
-  - title: "Communities"
-    url: "/#-communities"
+  - title: "项目经历"
+    url: "/#-项目经历"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "技术社区贡献"
+    url: "/#-技术社区贡献"
+
+  - title: "学术/技术会议演讲"
+    url: "/#-学术/技术会议演讲"
