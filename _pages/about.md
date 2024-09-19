@@ -62,7 +62,7 @@ Xinji Mai, Zeng Tao, Junxiong Lin, Haoran Wang, **Yang Chang**, Yanlan Kang, Yan
 
 - [**CSDN:TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
 
-- **WeChat Official:TechLead** [![WeChat QR](../images/weixingongzhonghao.png)](../images/weixingongzhonghao.png), **WeChat Official:TechLeadCloud** [![WeChat QR](../images/weixingongzhonghao.png)](../images/weixingongzhonghao.png), 10000+ 关注, 分享AI技术和互联网架构.
+- **WeChat Official:TechLead** [![WeChat QR](../images/weixingongzhonghao.png)](../images/wechat1.jpg), **WeChat Official:TechLeadCloud** [![WeChat QR](../images/weixingongzhonghao.png)](../images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
 
 # 💬 Invited Talks
 - *2024.08*, **AICon**, [Vectorization and Document Parsing Technology Accelerating the Implementation of LLM RAG Applications](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [Star Lecturer](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
