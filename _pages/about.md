@@ -37,26 +37,16 @@ redirect_from:
 
 [课程：大模型RAG技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
 
-[FD-UAD: Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
-
-**Yang Chang**, Yuxuan Lin, Boyang Wang, Qing Zhao, Yan Wang, Wenqiang Zhang
+[1作 FD-UAD: Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
 
 [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
 
-Qing Zhao, Yan Wang, Yuxuan Lin, Shaoqi Yan, Wei Song, Boyang Wang, Jun Huang, **Yang Chang**, Lizhe Qi, Wenqiang Zhang
-
 [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
-
-Qing Zhao, Yan Wang, Yuxuan Lin, Shaoqi Yan, Boyang Wang, Wei He, Xuening Wu, **Yang Chang**, Wenqiang Zhang
 
 [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777), **arxiv 2024**
 
-Yan Wang, Shaoqi Yan, Yang Liu, Wei Song, Jing Liu, **Yang Chang**, Xinji Mai, Xiping Hu, Wenqiang Zhang and Zhongxue Gan
-
 
 [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
- 
-Xinji Mai, Zeng Tao, Junxiong Lin, Haoran Wang, **Yang Chang**, Yanlan Kang, Yan Wang, Wenqiang Zhang
 
 # 🔥 社区
 
