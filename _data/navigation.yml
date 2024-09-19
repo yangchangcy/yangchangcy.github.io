@@ -2,3 +2,18 @@
 main:
   - title: "学历"
     url: "/zh/#education"
+
+  - title: "工作"
+    url: "/zh/#job"
+
+  - title: "学术"
+    url: "/zh/#academic"
+  
+  - title: "项目"
+    url: "/zh/#project"
+
+  - title: "社区"
+    url: "/zh/#community"
+
+  - title: "演讲"
+    url: "/zh/#speech"

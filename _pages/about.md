@@ -27,11 +27,13 @@ redirect_from:
 
 - *2008.09 - 2012.06*, **学士**, **同济大学**, 软件工程.
 
+<span class='anchor' id='job'></span>
 # 💻 工作
 - *2014.03 - now*, **产品研发总监**, [合合信息（科创板 688615）](https://www.intsig.com/), 上海.
 
 - *2012.07 - 2014.03*, **软件工程师**, [群硕软件](https://www.augmentum.com.cn/), 上海.
 
+<span class='anchor' id='academic'></span>
 # 📄 课程开设&学术论文 
 
 - [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
@@ -50,6 +52,7 @@ redirect_from:
 
 - 更多：4篇审稿中
 
+<span class='anchor' id='project'></span>
 # 🎯 项目经历
 
 - *2022 - 至今*, **大模型及RAG领域技术与产品化探索**, 业务负责人、产品研发总监
@@ -67,12 +70,14 @@ redirect_from:
 - *2012 - 2014*, **群硕软件：VELO数字化运营管理平台**, 全栈软件工程师
 
 
+<span class='anchor' id='community'></span>
 # 🌐 技术社区贡献
 
 - **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
 
 - **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), **TechLeadCloud** [![WeChat QR](../images/wechat_logo_16h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
 
+<span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
 - *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
 
