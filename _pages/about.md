@@ -34,22 +34,21 @@ redirect_from:
 
 # 📄 课程开设&学术论文 
 
-[课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
+- [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
 
-[课程：大模型RAG技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
+- [课程：大模型RAG技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
 
-[1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
+- [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
 
-[Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
+- [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
 
-[Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
+- [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
 
-[A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777), **arxiv 2024**
+- [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777), **arxiv 2024**
 
+- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
 
-[From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
-
-更多：4篇审稿中
+- 更多：4篇审稿中
 
 # 🎯 项目经历
 
