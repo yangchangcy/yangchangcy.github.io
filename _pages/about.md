@@ -48,22 +48,22 @@ redirect_from:
 
 [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
 
-# 🔥 社区
+# 🔥 技术社区影响力
 
 - **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
 
 - **微信公众号:** **TechLead** [![WeChat QR](../images/wechat_logo_15h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), **TechLeadCloud** [![WeChat QR](../images/wechat_logo_15h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
 
-# 💬 Invited Talks
-- *2024.08*, **AICon**, [Vectorization and Document Parsing Technology Accelerating the Implementation of LLM RAG Applications](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [Star Lecturer](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
+# 💬 学术/技术会议演讲
+- *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
 
-- *2024.08*, **AiDD**, [Document Parsing Technology Accelerating LLM Training and Application](https://aidd.vip/CWBWD-2024bj), [Top 10 Best Topic](https://mp.weixin.qq.com/s/Dx0o7EazUkZa9dxRutKJbw).
+- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [TOP10演讲议题](https://mp.weixin.qq.com/s/Dx0o7EazUkZa9dxRutKJbw).
 
-- *2024.05*, **VALSE**, [Prospects of Multimodal Products in Intelligent Document Processing Applications](https://cloud.tencent.com/developer/article/2417196).
+- *2024.05*, **VALSE 视觉与学习青年学者研讨会**, [文档解析与向量化技术加速多模态大模型训练与应用](https://cloud.tencent.com/developer/article/2417196).
 
-- *2024.05*, **CCIG**, [Document Parsing Technology Addresses the ‘Data Scarcity’ Challenge in LLM Training](https://baijiahao.baidu.com/s?id=1800356490899597731).
+- *2024.05*, **CCIG 中国图象图形大会**, [大模型技术及其前沿应用](https://baijiahao.baidu.com/s?id=1800356490899597731).
 
-- *2023*, **More**, **WAIC (World Artificial Intelligence Conference)**, Shanghai Image & Graphics Association, Nanjing AI Industry Development Conference, Tencent Cloud CTO100, Inspur Intelligent Computing Conference, ...
+- **更多演讲**, **WAIC 世界人工智能大会**, 上海市图像图形学学会会议, 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
 
 
 
