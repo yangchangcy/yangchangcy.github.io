@@ -73,9 +73,9 @@ redirect_from:
 <span class='anchor' id='community'></span>
 # 🌐 技术社区贡献
 
-- **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
+- **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网软件架构.
 
-- **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), **TechLeadCloud** [![WeChat QR](../images/wechat_logo_16h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
+- **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), [**TechLeadCloud**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网软件架构.
 
 <span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
@@ -89,4 +89,4 @@ redirect_from:
 
 - *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), [上海市图像图形学学会会议](http://www.siga.org.cn/xhhd/2023hj.html), 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
 
-- *2023, 2024*, **中国大学生服外创新创业大赛（国家级）**, [大赛评审专家](https://finance.sina.cn/2024-08-27/detail-incmachm4105424.d.html).
+- *2023 - 2024*, **中国大学生服外创新创业大赛（国家级）**, [大赛评审专家](https://finance.sina.cn/2024-08-27/detail-incmachm4105424.d.html).
