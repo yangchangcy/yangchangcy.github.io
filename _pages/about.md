@@ -79,6 +79,7 @@ redirect_from:
 
 <span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
+
 - *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
 
 - *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [TOP10演讲议题](https://mp.weixin.qq.com/s/Dx0o7EazUkZa9dxRutKJbw).
@@ -87,6 +88,8 @@ redirect_from:
 
 - *2024.05*, **CCIG 中国图象图形大会**, [大模型技术及其前沿应用](https://baijiahao.baidu.com/s?id=1800356490899597731).
 
-- *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), [上海市图像图形学学会会议](http://www.siga.org.cn/xhhd/2023hj.html), 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
+- *2023.12*, **SIGA 上海市图像图形学学会**, [智能文档处理与AI图像安全](http://www.siga.org.cn/xhhd/2023hj.html).
+
+- *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
 
 - *2023 - 2024*, **中国大学生服外创新创业大赛（国家级）**, [大赛评审专家](https://finance.sina.cn/2024-08-27/detail-incmachm4105424.d.html).
