@@ -15,11 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'>
-
 **常扬，复旦博士，研发总监，十年AI产品及互联网平台业务研发经验。**精通互联网产品、AI产品、云平台研发与产研团队管理，负责合合智能文档处理业务线产研。技术社区专家，技术会议讲师、技术课程讲师。
-
-</span>
 
 # 📖 学历
 - *2024.09 - 至今*, **博士**, **复旦大学**, 电子信息, 多模态大模型方向, [ROI Lab 复旦机器人智能实验室](https://www.fudanroilab.com/index.html).
