@@ -31,7 +31,7 @@ redirect_from:
 
 - *2012.07 - 2014.03*, **软件工程师**, [Augmentum](https://www.augmentum.com.cn/), 上海.
 
-# 📝 课程发布&学术论文 
+# 📝 课程开设&学术论文 
 
 [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
 
@@ -62,7 +62,7 @@ Xinji Mai, Zeng Tao, Junxiong Lin, Haoran Wang, **Yang Chang**, Yanlan Kang, Yan
 
 - [**CSDN:TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
 
-- **WeChat Official:TechLead** [![WeChat QR](../images/weixingongzhonghao-2.png)](../images/weixingongzhonghao-2.png), **WeChat Official:TechLeadCloud** [![WeChat QR](path/to/qr-icon.png)](path/to/techleadcloud-qr.png), 10000+ 关注, 分享AI技术和互联网架构.
+- **WeChat Official:TechLead** [![WeChat QR](../images/weixingongzhonghao.png)](../images/weixingongzhonghao.png), **WeChat Official:TechLeadCloud** [![WeChat QR](../images/weixingongzhonghao.png)](../images/weixingongzhonghao.png), 10000+ 关注, 分享AI技术和互联网架构.
 
 # 💬 Invited Talks
 - *2024.08*, **AICon**, [Vectorization and Document Parsing Technology Accelerating the Implementation of LLM RAG Applications](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [Star Lecturer](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
