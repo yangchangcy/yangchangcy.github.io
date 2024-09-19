@@ -54,7 +54,7 @@ redirect_from:
 
 - **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网架构.
 
-- **微信公众号:** **TechLead** [![WeChat QR](../images/wechat_logo_16h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), **TechLeadCloud** [![WeChat QR](../images/wechat_logo_16h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
+- **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), **TechLeadCloud** [![WeChat QR](../images/wechat_logo_16h.png)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网架构.
 
 # 💬 学术/技术会议演讲
 - *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
