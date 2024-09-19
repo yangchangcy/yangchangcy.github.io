@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "常扬"
-description              : "复旦博士<br/>产品研发总监<br/>互联网产品服务产研<br/>AI产品产研<br/>产研团队管理"
+description              : "复旦博士<br/>合合产品研发总监<br/>互联网产品、平台产研负责<br/>AI产品产研负责<br/>产研团队管理"
 repository               : "yangchangcy/yangchangcy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "常扬"
   avatar           : "images/header.jpg"
-  bio              : "复旦大学<br/>合合信息（科创板 688615）"
+  bio              : "合合信息（科创板 688615）"
   location         : "上海，中国"
   employer         :
   pubmed           : 

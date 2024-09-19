@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yang Chang, Ph.D. from Fudan University, 10 years Director of AI Product and Internet Serivce R&D.** Proficient in AI Product Development, Cloud Service Platform R&D, R&D Team Management, and AI Technologies. Leading Intelligent Document Processing business line at Intsig Information. Expert blogger in the tech community, star lecturer at technical conferences, and publisher of technical courses.
+**常扬，复旦博士，研发总监，十年AI产品及互联网平台研发总监经验。**精通互联网产品、AI产品、云平台研发与产研团队管理，负责合合智能文档处理业务线产研。技术社区专家，技术会议讲师、技术课程讲师。
 
 
 # 📝 Publications 
