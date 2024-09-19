@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yang Chang"
-description              : "Ph.D in AI<br/>Director of Product R&D<br/>Proficient in Software Development & AI Technologies."
+title                    : "常扬"
+description              : "复旦博士<br/>产品研发总监<br/>互联网产品服务产研<br/>AI产品产研<br/>产研团队管理"
 repository               : "yangchangcy/yangchangcy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Chang"
+  name             : "常扬"
   avatar           : "images/header.jpg"
-  bio              : "Fudan University<br/>Intsig Information"
-  location         : "ShangHai, China"
+  bio              : "复旦大学<br/>合合信息（科创板 688615）"
+  location         : "上海，中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n9VEHe8AAAAJ"
