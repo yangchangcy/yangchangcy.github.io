@@ -86,7 +86,7 @@ redirect_from:
 
 - *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aicon.jpg).
 
-- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题]https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aidd.jpg).
+- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aidd.jpg).
 
 - *2024.05*, **VALSE 视觉与学习青年学者研讨会**, [文档解析与向量化技术加速多模态大模型训练与应用](https://cloud.tencent.com/developer/article/2417196).
 
