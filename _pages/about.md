@@ -79,6 +79,8 @@ redirect_from:
 
 - **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), [**TechLeadCloud**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网软件架构.
 
+- **阿里云专家博主、华为云云享专家**
+
 <span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
 
@@ -99,8 +101,7 @@ redirect_from:
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
 
-- 阿里云高级架构师ACE 
-- 项目/国际项目管理专家PMP/IPMP
-- 阿里云专家博主
-- 华为云云享专家
+- AWS 云计算专家级架构师认证 SAP(AWS Certified Solutions Architect - Professional)
+- 阿里云云计算高级架构师认证 ACE(Alibaba Cloud Certified Expert）
+- 项目/国际项目管理专家 PMP/IPMP
 - CET-6
