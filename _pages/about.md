@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
 
-- AWS 云计算专家级架构师认证 [SAP(AWS Certified Solutions Architect - Professional)]()
-- 阿里云云计算高级架构师认证 [ACE(Alibaba Cloud Certified Expert)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/ace.jpg)
+- AWS 云计算专家级架构师认证 - 最高级别 [SAP(AWS Certified Solutions Architect - Professional)]()
+- 阿里云云计算高级架构师认证 - 最高级别 [ACE(Alibaba Cloud Certified Expert)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/ace.jpg)
 - 项目/国际项目管理专家 [PMP](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/pmi.jpg)/[IPMP]()
 - CET-6
