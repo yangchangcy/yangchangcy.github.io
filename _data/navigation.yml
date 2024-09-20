@@ -17,3 +17,6 @@ main:
 
   - title: "演讲"
     url: "/zh/#speech"
+
+  - title: "认证"
+    url: "/zh/#certification"
