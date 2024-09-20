@@ -79,14 +79,14 @@ redirect_from:
 
 - **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), [**TechLeadCloud**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网软件架构.
 
-- **阿里云专家博主、华为云云享专家**
+- [**阿里云专家博主**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aliyun_community_expert.jpg), [**华为云云享专家**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/huawei_cloud_expert.jpg)
 
 <span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
 
-- *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://mp.weixin.qq.com/s/4UHYJ1cb-XiQPHjdOEXf6A).
+- *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aicon.jpg).
 
-- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [TOP10演讲议题](https://mp.weixin.qq.com/s/Dx0o7EazUkZa9dxRutKJbw).
+- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题]https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aidd.jpg).
 
 - *2024.05*, **VALSE 视觉与学习青年学者研讨会**, [文档解析与向量化技术加速多模态大模型训练与应用](https://cloud.tencent.com/developer/article/2417196).
 
@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
 
-- AWS 云计算专家级架构师认证 SAP(AWS Certified Solutions Architect - Professional)
-- 阿里云云计算高级架构师认证 ACE(Alibaba Cloud Certified Expert）
-- 项目/国际项目管理专家 PMP/IPMP
+- AWS 云计算专家级架构师认证 [SAP(AWS Certified Solutions Architect - Professional)]()
+- 阿里云云计算高级架构师认证 [ACE(Alibaba Cloud Certified Expert)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/ace.jpg)
+- 项目/国际项目管理专家 [PMP](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/pmi.jpg)/[IPMP]()
 - CET-6
