@@ -77,16 +77,16 @@ redirect_from:
 
 - **CSDN:** [**TechLead KrisChang**](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网软件架构.
 
-- **微信公众号:** [**TechLead**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat1.jpg), [**TechLeadCloud**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/wechat2.jpg), 10000+ 关注, 分享AI技术和互联网软件架构.
+- **微信公众号:** [**TechLead**](http://image.openwrite.cn/31614_FEE22C06EF1642869F10405968C367AC), [**TechLeadCloud**](http://image.openwrite.cn/31614_B47CB080A8E0491F8E6A40DDFAB55DC0), 10000+ 关注, 分享AI技术和互联网软件架构.
 
-- [**阿里云专家博主**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aliyun_community_expert.jpg), [**华为云云享专家**](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/huawei_cloud_expert.jpg)
+- [**阿里云专家博主**](http://image.openwrite.cn/31614_B9B758BEC00D4F769B1084027A1B7E07), [**华为云云享专家**](http://image.openwrite.cn/31614_39B4FA49A51949F28DDE3D239309CC44)
 
 <span class='anchor' id='speech'></span>
 # 💬 学术/技术会议演讲
 
-- *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aicon.jpg).
+- *2024.08*, **AICon 全球人工智能开发与应用大会**, [向量化与文档解析技术加速大模型RAG应用落地](https://aicon.infoq.cn/2024/shanghai/presentation/6004), [明星讲师](http://image.openwrite.cn/31614_2078BC51F3894BCF8F6D2B5A3A5D8E4F).
 
-- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aidd.jpg).
+- *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题](http://image.openwrite.cn/31614_ACEE380B3C3E46548C96A1BA04452A5A).
 
 - *2024.05*, **VALSE 视觉与学习青年学者研讨会**, [文档解析与向量化技术加速多模态大模型训练与应用](https://cloud.tencent.com/developer/article/2417196).
 
@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
 
-- AWS 云计算专家级架构师认证 - 最高级别 [SAP(AWS Certified Solutions Architect - Professional)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/aws_certified.png)
-- 阿里云云计算高级架构师认证 - 最高级别 [ACE(Alibaba Cloud Certified Expert)](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/ace.jpg)
-- 项目/国际项目管理专家 [PMP](https://raw.githubusercontent.com/yangchangcy/zh/refs/heads/main/images/pmi.jpg)/[IPMP]()
+- AWS 云计算专家级架构师认证 - 最高级别 [SAP(AWS Certified Solutions Architect - Professional)](http://image.openwrite.cn/31614_8124A730CB4A40B283C9DDBF353FBAA7)
+- 阿里云云计算高级架构师认证 - 最高级别 [ACE(Alibaba Cloud Certified Expert)](http://image.openwrite.cn/31614_16BF07B0F3924AFA9D2323DA9A90B9B8)
+- 项目/国际项目管理专家 [PMP](http://image.openwrite.cn/31614_D6628F29C20346D28FBC5EAFA761D868)/[IPMP]()
 - CET-6
