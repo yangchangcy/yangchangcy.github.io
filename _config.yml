@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "常扬"
-  avatar           : "http://image.openwrite.cn/31614_ADB0A92C9A1347A2A1E18426A13E548B"
+  avatar           : "images/header.jpg"
   bio              : "合合信息（科创板 688615）"
   location         : "上海，中国"
   employer         :
