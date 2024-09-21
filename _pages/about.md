@@ -77,7 +77,7 @@ redirect_from:
 
 - **CSDN:** [TechLead KrisChang](https://techlead.blog.csdn.net), 40000+ 关注, 150w+ 阅读, 分享AI技术和互联网软件架构.
 
-- **微信公众号:** [TechLead](http://image.openwrite.cn/31614_FEE22C06EF1642869F10405968C367AC), [**TechLeadCloud**](http://image.openwrite.cn/31614_B47CB080A8E0491F8E6A40DDFAB55DC0), 10000+ 关注, 分享AI技术和互联网软件架构.
+- **微信公众号:** [TechLead](http://image.openwrite.cn/31614_FEE22C06EF1642869F10405968C367AC), [TechLeadCloud](http://image.openwrite.cn/31614_B47CB080A8E0491F8E6A40DDFAB55DC0), 10000+ 关注, 分享AI技术和互联网软件架构.
 
 - [阿里云专家博主](http://image.openwrite.cn/31614_B9B758BEC00D4F769B1084027A1B7E07), [华为云云享专家](http://image.openwrite.cn/31614_39B4FA49A51949F28DDE3D239309CC44)
 
