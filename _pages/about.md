@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
 
-- AWS 云计算专家级架构师认证 - 最高级别 [SAP(AWS Certified Solutions Architect - Professional)](http://image.openwrite.cn/31614_8124A730CB4A40B283C9DDBF353FBAA7)
-- 阿里云云计算高级架构师认证 - 最高级别 [ACE(Alibaba Cloud Certified Expert)](http://image.openwrite.cn/31614_16BF07B0F3924AFA9D2323DA9A90B9B8)
+- **AWS 云计算专家级架构师认证 - 最高级别** [SAP(AWS Certified Solutions Architect - Professional)](http://image.openwrite.cn/31614_8124A730CB4A40B283C9DDBF353FBAA7)
+- **阿里云云计算高级架构师认证 - 最高级别** [ACE(Alibaba Cloud Certified Expert)](http://image.openwrite.cn/31614_16BF07B0F3924AFA9D2323DA9A90B9B8)
 - 项目/国际项目管理专家 [PMP](http://image.openwrite.cn/31614_D6628F29C20346D28FBC5EAFA761D868)/[IPMP]()
 - CET-6
