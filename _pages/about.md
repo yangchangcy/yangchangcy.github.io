@@ -94,7 +94,7 @@ redirect_from:
 
 - *2023.12*, **SIGA 上海市图像图形学学会**, [智能文档处理与AI图像安全](http://www.siga.org.cn/xhhd/2023hj.html).
 
-- *2023 - 2024*, **中国大学生服外创新创业大赛（国家级）**, [大赛评审专家](http://image.openwrite.cn/31614_E8E6A92F05A64383A3EA36D81B0D324D).
+- *2023 - 2024*, **中国大学生服外创新创业大赛（国家级）**, <details><summary>大赛评审专家</summary><img src="http://image.openwrite.cn/31614_E8E6A92F05A64383A3EA36D81B0D324D" alt="大赛评审专家" style="max-width: 100%;"></details>.
 
 - *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
 
