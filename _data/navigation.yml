@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "学历"
-    url: "/zh/#education"
+    url: "/#education"
 
   - title: "工作"
-    url: "/zh/#job"
+    url: "/#job"
 
   - title: "学术"
-    url: "/zh/#academic"
+    url: "/#academic"
   
   - title: "项目"
-    url: "/zh/#project"
+    url: "/#project"
 
   - title: "社区"
-    url: "/zh/#community"
+    url: "/#community"
 
   - title: "演讲"
-    url: "/zh/#speech"
+    url: "/#speech"
 
   - title: "认证"
-    url: "/zh/#certification"
+    url: "/#certification"
