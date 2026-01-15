@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**常扬，复旦博士，合合产品研发总监，十年AI产品及互联网平台业务研发经验。**精通互联网产品、AI产品、云平台研发与产研团队管理，负责合合智能文档处理业务线产研。技术社区专家，技术会议讲师、开设技术课程。
+**常扬，复旦博士，字节跳动飞书 AI 产品专家，前合合信息（科创板上市，初创成员）AI 产品研发总监。**十年 AI 产品及互联网平台业务研发经验。精通互联网产品、AI 产品、云平台研发与产研团队管理，发表多篇 SCI 学术论文，技术社区专家，技术会议讲师、技术课程讲师。
 
 <span class='anchor' id='education'></span>
 # 📖 学历
@@ -31,7 +31,9 @@ redirect_from:
 <span class='anchor' id='job'></span>
 # 💻 工作
 
-- *2014.03 - 至今*, **产品研发总监**, [合合信息](https://www.intsig.com/)，[科创板 688615](https://gushitong.baidu.com/stock/ab-688615), 上海.
+- *2025.03 - 至今*, **AI 产品专家**, 字节跳动，飞书, 北京.
+
+- *2014.03 - 2025.03*, **AI 产品研发总监**, [合合信息](https://www.intsig.com/)，[科创板 688615](https://gushitong.baidu.com/stock/ab-688615), 上海.
 
 - *2012.07 - 2014.03*, **软件工程师**, [群硕软件](https://www.augmentum.com.cn/), 上海.
 
@@ -52,14 +54,14 @@ redirect_from:
 
 - [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
 
-- 更多：4篇审稿中
-
 <span class='anchor' id='project'></span>
 # 🎯 项目经历
 
-- *2022 - 至今*, **大模型及RAG领域技术与产品化探索**, 业务负责人、产品研发总监
+- *2025 - 2026*, **飞书多维表格 AI**, AI 产品专家
 
-- *2017 - 至今*, **TextIn.com 智能文档处理产品云服务平台**, 业务负责人、产品研发总监
+- *2022 - 2025*, **大模型及RAG领域技术与产品化探索**, 业务负责人、产品研发总监
+
+- *2017 - 2025*, **TextIn.com 智能文档处理产品云服务平台**, 业务负责人、产品研发总监
 
 - *2017 - 2023*, **财报、合同、票据机器人，低代码训练平台等智能文档处理企业级产品、解决方案**, 业务负责人、产品研发总监
 
