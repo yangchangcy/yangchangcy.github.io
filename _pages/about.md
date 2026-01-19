@@ -46,6 +46,10 @@ redirect_from:
 
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
 
+- [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](https://ieeexplore.ieee.org/document/11208942), **ICME 2025**
+  
+- [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/10.26599/TST.2025.9010046), **TSINGHUA SCI**
+
 - [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
