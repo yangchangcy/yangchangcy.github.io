@@ -63,27 +63,27 @@ redirect_from:
 
 - *2025 - 2026*, **飞书多维表格 AI**, AI 产品专家
 
-- *2022 - 2025*, **大模型及RAG领域技术与产品化探索**, 业务负责人、产品研发总监
+- *2022 - 2025*, **大模型及 RAG 领域技术与产品化探索**, 业务负责人、产品研发总监
 
 - *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品云服务平台**, 业务负责人、产品研发总监
 
 - *2017 - 2023*, **财报、合同、票据机器人，低代码训练平台等智能文档处理企业级产品、解决方案**, 业务负责人、产品研发总监
 
-- *2017 - 2023*, **卡证、票据、定制文档信息抽取等OCR技术模块产品**, 业务负责人、产品研发总监
+- *2017 - 2023*, **卡证、票据、定制文档信息抽取等 OCR 技术模块产品**, 业务负责人、产品研发总监
 
-- *2015 - 2021*, **500万用户互联网人工智能标注平台-桔子兼职**, 业务负责人、产品研发总监
+- *2015 - 2021*, **500 万用户互联网人工智能标注平台-桔子兼职**, 业务负责人、产品研发总监
 
-- *2014 - 2016*, **AI研发平台 - 标注平台、训练平台、测试平台**, 全栈软件工程师
+- *2014 - 2016*, **AI 研发平台 - 标注平台、训练平台、测试平台**, 全栈软件工程师
 
-- *2012 - 2014*, **群硕软件：VELO数字化运营管理平台**, 全栈软件工程师
+- *2012 - 2014*, **群硕软件：VELO 数字化运营管理平台**, 全栈软件工程师
 
 
 <span class='anchor' id='community'></span>
 # 🌐 技术社区贡献
 
-- **CSDN:** [TechLead KrisChang](https://techlead.blog.csdn.net), 60000+ 关注, 150w+ 阅读, 分享AI技术和互联网软件架构.
+- **CSDN:** [TechLead KrisChang](https://techlead.blog.csdn.net), 60000+ 关注, 150w+ 阅读, 分享 AI 技术和互联网软件架构.
 
-- **微信公众号:** [TechLead](http://image.openwrite.cn/31614_FEE22C06EF1642869F10405968C367AC), [TechLeadCloud](http://image.openwrite.cn/31614_B47CB080A8E0491F8E6A40DDFAB55DC0), 20000+ 关注, 分享AI技术和互联网软件架构.
+- **微信公众号:** [TechLead](http://image.openwrite.cn/31614_FEE22C06EF1642869F10405968C367AC), [TechLeadCloud](http://image.openwrite.cn/31614_B47CB080A8E0491F8E6A40DDFAB55DC0), 20000+ 关注, 分享 AI 技术和互联网软件架构.
 
 - [阿里云专家博主](http://image.openwrite.cn/31614_B9B758BEC00D4F769B1084027A1B7E07), [华为云云享专家](http://image.openwrite.cn/31614_39B4FA49A51949F28DDE3D239309CC44)
 
@@ -102,7 +102,7 @@ redirect_from:
 
 - *2023 - 2024*, **中国大学生服外创新创业大赛（国家级）**, [大赛评审专家](http://image.openwrite.cn/31614_E8E6A92F05A64383A3EA36D81B0D324D)
 
-- *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), 南京人工智能产业发展大会, 腾讯云CTO100会议, 浪潮智算大会, ...
+- *更多演讲*, [WAIC 世界人工智能大会](https://m.yicai.com/news/101104344.html), 南京人工智能产业发展大会, 腾讯云 CTO100 会议, 浪潮智算大会, ...
 
 <span class='anchor' id='certification'></span>
 # 📌 个人认证
