@@ -50,6 +50,8 @@ redirect_from:
   
 - [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/10.26599/TST.2025.9010046), **TSINGHUA SCI**
 
+- [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S156625352500212X), **Information Fusion**
+
 - [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
