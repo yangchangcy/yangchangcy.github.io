@@ -38,11 +38,7 @@ redirect_from:
 - *2012.07 - 2014.03*, **软件工程师**, [群硕软件](https://www.augmentum.com.cn/), 上海.
 
 <span class='anchor' id='academic'></span>
-# 📄 课程开设&学术论文 
-
-- [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
-
-- [课程：大模型RAG技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
+# 📄 学术论文&课程开设
 
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024, CCF A**
 
@@ -56,7 +52,11 @@ redirect_from:
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
 
-- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**  
+- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**
+
+- [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
+
+- [课程：大模型RAG技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
 
 <span class='anchor' id='project'></span>
 # 🎯 项目经历
