@@ -40,6 +40,8 @@ redirect_from:
 <span class='anchor' id='academic'></span>
 # 📄 学术论文&课程开设
 
+多模态大模型方向，首创情感行为人形机器人系统；联合复旦光华，发布世界首个中医大模型。
+
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
 - [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](https://ieeexplore.ieee.org/document/11208942), **ICME 2025**
