@@ -63,7 +63,7 @@ redirect_from:
 <span class='anchor' id='project'></span>
 # 🎯 项目经历
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Agent` `LLM` `RAG` `OCR` `ML Platform`
+&nbsp;&nbsp;&nbsp;&nbsp;Agent · LLM · RAG · OCR · ML Platform
 
 - *2025 - 2026*, **飞书多维表格 AI**, AI 产品专家
 
