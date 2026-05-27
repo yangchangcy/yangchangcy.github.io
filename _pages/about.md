@@ -42,11 +42,11 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;多模态大模型，首创情感行为人形机器人系统，发布世界首个中医大模型
 
-- [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
-
 - [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](https://ieeexplore.ieee.org/document/11208942), **ICME 2025**
+
+- [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
   
-- [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/10.26599/TST.2025.9010046), **TSINGHUA SCI**
+- [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI**
 
 - [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S156625352500212X), **Information Fusion**
 
