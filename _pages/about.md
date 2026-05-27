@@ -50,7 +50,7 @@ redirect_from:
 
 - [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://arxiv.org/pdf/2410.21982), **Information Fusion**
 
-- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**
+- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/pdf/2407.00118), **arxiv 2024**
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
 
