@@ -40,7 +40,7 @@ redirect_from:
 <span class='anchor' id='academic'></span>
 # 📄 学术论文&课程开设
 
-&nbsp;&nbsp;&nbsp;&nbsp;多模态大模型，首创情感行为人形机器人系统，发布世界首个中医大模型
+&nbsp;&nbsp;&nbsp;&nbsp;大模型与 Agent 研究方向，首创情感行为人形机器人系统，发布世界首个中医大模型
 
 - [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](https://ieeexplore.ieee.org/document/11208942), **ICME 2025**
 
