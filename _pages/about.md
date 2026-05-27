@@ -50,11 +50,11 @@ redirect_from:
 
 - [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S156625352500212X), **Information Fusion**
 
-- [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
+- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](), **INSAI 2023**
 
-- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**
+- [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
 
 - [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
 
