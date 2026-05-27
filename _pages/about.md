@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**常扬，复旦博士，字节跳动飞书 AI 产品专家，前合合信息（科创板上市，初创团队）AI 产品研发总监。**十年 AI 产品及 B 端产品、互联网平台研发经验。精通 AI 产品、工具、云平台研发与产研团队管理，发表多篇 SCI 学术论文，技术社区专家，技术会议讲师、技术课程讲师。
+**常扬，复旦博士，飞书 AI 产品专家，工程、AI、产品复合背景，前合合信息（科创板上市，初创团队）AI 产品研发总监。**十年 AI 及 B 端产品、互联网平台经验。精通 AI 产品、工具、云平台研发与产研团队管理，发表多篇 SCI 学术论文，技术社区专家，技术会议讲师、技术课程讲师。
 
 <span class='anchor' id='education'></span>
 # 📖 学历
@@ -40,7 +40,7 @@ redirect_from:
 <span class='anchor' id='academic'></span>
 # 📄 学术论文&课程开设
 
-多模态大模型方向，首创情感行为人形机器人系统；联合复旦光华，发布世界首个中医大模型。
+&nbsp;&nbsp;&nbsp;&nbsp;多模态大模型，首创情感行为人形机器人系统，发布世界首个中医大模型
 
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
@@ -63,11 +63,13 @@ redirect_from:
 <span class='anchor' id='project'></span>
 # 🎯 项目经历
 
+&nbsp;&nbsp;&nbsp;&nbsp;`Agent` `LLM` `RAG` `OCR` `ML Platform`
+
 - *2025 - 2026*, **飞书多维表格 AI**, AI 产品专家
 
-- *2022 - 2025*, **大模型及 RAG 领域技术与产品化探索**, 业务负责人、产品研发总监
+- *2022 - 2025*, **大模型及 Agent 领域技术与产品化**, 业务负责人、产品研发总监
 
-- *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品云服务平台**, 业务负责人、产品研发总监
+- *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品**, 业务负责人、产品研发总监
 
 - *2017 - 2023*, **财报、合同、票据机器人，低代码训练平台等智能文档处理企业级产品、解决方案**, 业务负责人、产品研发总监
 
