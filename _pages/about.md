@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='job'></span>
 # 💻 工作
 
-- *2025.03 - 至今*, **AI 产品专家**, 字节跳动，飞书, 北京.
+- *2025.03 - 至今*, **AI 产品专家**, 多维表格，飞书, 北京.
 
 - *2014.03 - 2025.03*, **AI 产品研发总监**, [合合信息](https://www.intsig.com/)，[科创板 688615](https://gushitong.baidu.com/stock/ab-688615), 上海.
 
