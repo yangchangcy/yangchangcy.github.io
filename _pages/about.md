@@ -48,7 +48,7 @@ redirect_from:
   
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
-- [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S156625352500212X), **Information Fusion**
+- [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://arxiv.org/pdf/2410.21982), **Information Fusion**
 
 - [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118), **arxiv 2024**
 
