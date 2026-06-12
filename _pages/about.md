@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**常扬，复旦博士，飞书多维表格 AI 产品，工程、AI、产品复合背景，前合合信息（科创板上市，初创团队）AI 产品研发总监。**十年 AI 及 B 端产品、互联网平台经验。精通 AI 产品、工具、云平台研发与产研团队管理，发表多篇 SCI 学术论文，技术社区专家，技术会议讲师、技术课程讲师。
+**常扬，复旦博士，飞书 AI 产品专家，AI、工程、算法、产品复合背景，前合合信息（科创板上市，初创团队）AI 产品研发总监。**十年 AI 及 B 端产品、互联网平台经验。精通 AI 产品、工具、云平台研发与产研团队管理，发表多篇 SCI 学术论文，技术社区专家，技术会议讲师、技术课程讲师。
 
 <span class='anchor' id='education'></span>
 # 📖 学历
 
-- *2024.09 - 至今*, **博士**, **复旦大学**, 电子信息, 多模态大模型方向, [ROI Lab](https://www.fudanroilab.com/index.html).
+- *2024.09 - 至今*, **博士**, **复旦大学**, 电子信息（全日制）, LLM、Agent 方向, [ROI Lab](https://www.fudanroilab.com/index.html).
 
-- *2022.09 - 2024.06*, **硕士**, **复旦大学**, 工程管理，多模态大模型方向, [ROI Lab](https://www.fudanroilab.com/index.html).
+- *2022.09 - 2024.06*, **硕士**, **复旦大学**, 工程管理，LLM、Agent 方向, [ROI Lab](https://www.fudanroilab.com/index.html).
 
 - *2008.09 - 2012.07*, **学士**, **同济大学**, 软件工程.
 
 <span class='anchor' id='job'></span>
 # 💻 工作
 
-- *2025.03 - 至今*, **AI 产品专家**, 多维表格，飞书, 北京.
+- *2025.03 - 至今*, **AI 产品专家**, 飞书, 北京.
 
 - *2014.03 - 2025.03*, **AI 产品研发总监**, [合合信息](https://www.intsig.com/)，[科创板 688615](https://gushitong.baidu.com/stock/ab-688615), 上海.
 
