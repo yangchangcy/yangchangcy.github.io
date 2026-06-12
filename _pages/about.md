@@ -110,7 +110,7 @@ redirect_from:
 
 - *2024.08*, **AiDD AI+研发数字峰会**, [文档解析技术加速大模型训练与应用](https://aidd.vip/CWBWD-2024bj), [最佳议题](http://image.openwrite.cn/31614_ACEE380B3C3E46548C96A1BA04452A5A).
 
-  <a href="/images/aidd_best_topic.jpg" class="image-popup"><img src="/images/aidd_best_topic.jpg" alt="2024 AiDD 峰会最佳议题荣誉证书 - 文档解析技术加速大模型训练与应用" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
+  <a href="/images/aidd_best_topic.jpg" class="image-popup"><img src="/images/aidd_best_topic.jpg" alt="2024 AiDD 峰会最佳议题荣誉证书 - 文档解析技术加速大模型训练与应用" style="max-height:230px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
 - *2024.05*, **VALSE 视觉与学习青年学者研讨会**, [文档解析与向量化技术加速多模态大模型训练与应用](https://cloud.tencent.com/developer/article/2417196).
 
