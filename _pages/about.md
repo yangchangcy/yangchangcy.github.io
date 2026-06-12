@@ -44,6 +44,8 @@ redirect_from:
 
 - [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](/files/Towards_Advanced_Emotional_Care_Embodied_Emotional_Care_System_for_Humanoid_Robots.pdf), **ICME 2025**
 
+  <img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:180px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+
 - [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI 2025**
   
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
