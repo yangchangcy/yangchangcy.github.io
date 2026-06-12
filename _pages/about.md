@@ -22,7 +22,7 @@ redirect_from:
 <span class='anchor' id='education'></span>
 # 📖 学历
 
-- *2024.09 - 至今*, **博士**, **复旦大学**, 电子信息（全日制）, LLM、Agent 方向, [ROI Lab](https://www.fudanroilab.com/index.html).
+- *2024.09 - 至今*, **博士**, **复旦大学**, 电子信息（全日制，同时在职）, LLM、Agent 方向, [ROI Lab](https://www.fudanroilab.com/index.html).
 
 - *2022.09 - 2024.06*, **硕士**, **复旦大学**, 工程管理，LLM、Agent 方向, [ROI Lab](https://www.fudanroilab.com/index.html).
 
