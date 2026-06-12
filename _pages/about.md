@@ -73,7 +73,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Agent · LLM · RAG · OCR · ML Platform
 
-- *2025 - 2026*, **飞书**, AI 产品专家
+- *2025 - 2026*, **飞书 办公场景 Agent**, AI 产品专家
 
 - *2022 - 2025*, **LLM、Agent 领域技术与产品化**, 业务负责人、产品研发总监
 
