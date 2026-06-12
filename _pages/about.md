@@ -47,6 +47,8 @@ redirect_from:
   <img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:180px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
 
 - [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI 2025**
+
+  <img src="/images/zhongjinggpt_pipeline.jpg" alt="ZhongJingGPT training pipeline (TSINGHUA SCI 2025)" style="max-height:180px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
   
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
@@ -67,9 +69,9 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Agent · LLM · RAG · OCR · ML Platform
 
-- *2025 - 2026*, **飞书多维表格 AI**, AI 产品专家
+- *2025 - 2026*, **飞书**, AI 产品专家
 
-- *2022 - 2025*, **大模型及 Agent 领域技术与产品化**, 业务负责人、产品研发总监
+- *2022 - 2025*, **LLM、Agent 领域技术与产品化**, 业务负责人、产品研发总监
 
 - *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品**, 业务负责人、产品研发总监
 
