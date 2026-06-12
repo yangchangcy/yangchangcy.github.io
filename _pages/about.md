@@ -64,6 +64,8 @@ redirect_from:
 
 - [课程：RAG 快速开发实战](https://time.geekbang.org/column/intro/100804101), **极客时间**
 
+  <a href="/images/rag_geektime.jpg" class="image-popup"><img src="/images/rag_geektime.jpg" alt="极客时间 课程：RAG 快速开发实战" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
+
 - [课程：大模型 RAG 技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
 
 <span class='anchor' id='project'></span>
