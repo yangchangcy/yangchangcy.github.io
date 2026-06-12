@@ -75,6 +75,8 @@ redirect_from:
 
 - *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品**, 业务负责人、产品研发总监
 
+  <img src="/images/textin_products.jpg" alt="TextIn.com 智能文档处理产品矩阵" style="max-height:180px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+
 - *2017 - 2023*, **财报、合同、票据机器人，低代码训练平台等智能文档处理企业级产品、解决方案**, 业务负责人、产品研发总监
 
 - *2017 - 2023*, **卡证、票据、定制文档信息抽取等 OCR 技术模块产品**, 业务负责人、产品研发总监
