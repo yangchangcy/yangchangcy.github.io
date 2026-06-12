@@ -44,15 +44,15 @@ redirect_from:
 
 - [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](/files/Towards_Advanced_Emotional_Care_Embodied_Emotional_Care_System_for_Humanoid_Robots.pdf), **ICME 2025**
 
-  <img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+  <a href="/images/eecs_architecture.jpg" class="image-popup"><img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
 - [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI 2025**
 
-  <img src="/images/zhongjinggpt_pipeline.jpg" alt="ZhongJingGPT training pipeline (TSINGHUA SCI 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+  <a href="/images/zhongjinggpt_pipeline.jpg" class="image-popup"><img src="/images/zhongjinggpt_pipeline.jpg" alt="ZhongJingGPT training pipeline (TSINGHUA SCI 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
   
 - [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
-  <img src="/images/fduad_platform.jpg" alt="FD-UAD Platform Structure Overview (IJCAI 2024)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+  <a href="/images/fduad_platform.jpg" class="image-popup"><img src="/images/fduad_platform.jpg" alt="FD-UAD Platform Structure Overview (IJCAI 2024)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
 - [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://arxiv.org/pdf/2410.21982), **Information Fusion**
 
@@ -77,7 +77,7 @@ redirect_from:
 
 - *2017 - 2025*, **[TextIn.com](https://www.textin.com/) 智能文档处理产品**, 业务负责人、产品研发总监
 
-  <img src="/images/textin_products.jpg" alt="TextIn.com 智能文档处理产品矩阵" style="max-height:180px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px;">
+  <a href="/images/textin_products.jpg" class="image-popup"><img src="/images/textin_products.jpg" alt="TextIn.com 智能文档处理产品矩阵" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
 - *2017 - 2023*, **财报、合同、票据机器人，低代码训练平台等智能文档处理企业级产品、解决方案**, 业务负责人、产品研发总监
 
