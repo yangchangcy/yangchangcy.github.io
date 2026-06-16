@@ -69,7 +69,7 @@ redirect_from:
 - [课程：大模型 RAG 技术架构与应用实践](https://aiorang.com/c/ZWEzZWIzODFhOWJiZGUxMDc5YzM=), **智猩猩**
 
 <span class='anchor' id='project'></span>
-# 🎯 项目经历
+# 🎯 产品经历
 
 &nbsp;&nbsp;&nbsp;&nbsp;Agent · LLM · RAG · OCR · ML Platform
 
