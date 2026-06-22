@@ -54,7 +54,7 @@ redirect_from:
 
   <a href="/images/fduad_platform.jpg" class="image-popup"><img src="/images/fduad_platform.jpg" alt="FD-UAD Platform Structure Overview (IJCAI 2024)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
-- [2作：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://arxiv.org/pdf/2410.21982), **Information Fusion**
+- [2nd：A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection](https://arxiv.org/pdf/2410.21982), **Information Fusion**
 
 - [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/pdf/2407.00118), **arxiv 2024**
 
