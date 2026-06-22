@@ -58,8 +58,6 @@ redirect_from:
 
 - [2nd：Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection](https://arxiv.org/pdf/2502.11712), **ICRA 2025**
 
-- [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/pdf/2407.00118), **arxiv 2024**
-
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](https://www.computer.org/csdl/proceedings-article/insai/2023/446600a166/26VnhQwhNiE), **INSAI 2023**
 
 - [Mixed noise-guided mutual constraint framework for unsupervised anomaly detection in smart industries](https://www.sciencedirect.com/science/article/pii/S0140366423004723), **Computer Communications 2024**
