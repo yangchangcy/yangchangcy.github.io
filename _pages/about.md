@@ -42,7 +42,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;大模型与 Agent 研究方向，首创情感行为人形机器人系统，发布世界首个中医大模型
 
-- [1作：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](/files/Towards_Advanced_Emotional_Care_Embodied_Emotional_Care_System_for_Humanoid_Robots.pdf), **ICME 2025**
+- [1st：Towards Advanced Emotional Care: Embodied Emotional Care System for Humanoid Robots](/files/Towards_Advanced_Emotional_Care_Embodied_Emotional_Care_System_for_Humanoid_Robots.pdf), **ICME 2025**
 
   <a href="/images/eecs_architecture.jpg" class="image-popup"><img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
@@ -50,7 +50,7 @@ redirect_from:
 
   <a href="/images/zhongjinggpt_pipeline.jpg" class="image-popup"><img src="/images/zhongjinggpt_pipeline.jpg" alt="ZhongJingGPT training pipeline (TSINGHUA SCI 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
   
-- [1作：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
+- [1st：FD-UAD Unsupervised Anomaly Detection Platform Based on Defect Autonomous Imaging and Enhancement](https://www.ijcai.org/proceedings/2024/0993.pdf), **IJCAI 2024**
 
   <a href="/images/fduad_platform.jpg" class="image-popup"><img src="/images/fduad_platform.jpg" alt="FD-UAD Platform Structure Overview (IJCAI 2024)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
