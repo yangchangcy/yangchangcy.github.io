@@ -46,7 +46,7 @@ redirect_from:
 
   <a href="/images/eecs_architecture.jpg" class="image-popup"><img src="/images/eecs_architecture.jpg" alt="EECS: Embodied Emotional Care System architecture (ICME 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
 
-- [共1：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI 2025**
+- [Co-1st：ZhongJingGPT: An Expert Knowledge-Guided Language Model for Traditional Chinese Medicine](https://www.sciopen.com/article/pdf/10.26599/TST.2025.9010046.pdf), **TSINGHUA SCI 2025**
 
   <a href="/images/zhongjinggpt_pipeline.jpg" class="image-popup"><img src="/images/zhongjinggpt_pipeline.jpg" alt="ZhongJingGPT training pipeline (TSINGHUA SCI 2025)" style="max-height:280px; width:auto; max-width:100%; margin:6px 0; border:1px solid #eee; border-radius:4px; cursor:zoom-in;"></a>
   
