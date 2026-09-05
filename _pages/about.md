@@ -60,6 +60,8 @@ redirect_from:
 
 - [Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory](/files/Commonality_in_Few_Few-Shot_Multimodal_Anomaly_Detection_via_Hypergraph-Enhanced_Memory.pdf), **AAAI 2026**
 
+- [Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments](https://ieeexplore.ieee.org/abstract/document/11247510/), **IROS 2025**
+
 - EmoGuide: A Training-Free Dual-Level Emotion Steering Framework for High-Fidelity Image Emotion Editing, **ICME 2026**
 
 - [Imitating Anomaly-Guided Student-Teacher Model for Unsupervised Anomaly Detection](https://www.computer.org/csdl/proceedings-article/insai/2023/446600a166/26VnhQwhNiE), **INSAI 2023**
